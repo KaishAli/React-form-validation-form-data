@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-form-validation-form-data/static/css/main.3eff9ecb.css",
-    "main.js": "/React-form-validation-form-data/static/js/main.33c17d63.js",
-    "static/js/787.66a375c8.chunk.js": "/React-form-validation-form-data/static/js/787.66a375c8.chunk.js",
-    "index.html": "/React-form-validation-form-data/index.html",
-    "main.3eff9ecb.css.map": "/React-form-validation-form-data/static/css/main.3eff9ecb.css.map",
-    "main.33c17d63.js.map": "/React-form-validation-form-data/static/js/main.33c17d63.js.map",
-    "787.66a375c8.chunk.js.map": "/React-form-validation-form-data/static/js/787.66a375c8.chunk.js.map"
+    "main.css": "/practice-app/static/css/main.3eff9ecb.css",
+    "main.js": "/practice-app/static/js/main.711bdb29.js",
+    "static/js/787.66a375c8.chunk.js": "/practice-app/static/js/787.66a375c8.chunk.js",
+    "index.html": "/practice-app/index.html",
+    "main.3eff9ecb.css.map": "/practice-app/static/css/main.3eff9ecb.css.map",
+    "main.711bdb29.js.map": "/practice-app/static/js/main.711bdb29.js.map",
+    "787.66a375c8.chunk.js.map": "/practice-app/static/js/787.66a375c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3eff9ecb.css",
-    "static/js/main.33c17d63.js"
+    "static/js/main.711bdb29.js"
   ]
 }
